@@ -83,7 +83,6 @@
         lblTax.Text = FormatCurrency(dblTax)
         lblMonthlyTotal.Text = FormatCurrency(dblMonthlyTotal)
 
-
     End Sub
 
     Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
